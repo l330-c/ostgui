@@ -1,0 +1,6 @@
+OST Search Bridge - Portable
+1. Extraia o ZIP.
+2. Execute INSTALAR.cmd.
+3. O instalador copia o app para %LOCALAPPDATA%\OSTSearchBridge, instala DLLs do OST na raiz do Steam, cria autostart e atalhos.
+Uso: abra "OST Search Bridge" ou "Steam (OST)". Jogos adicionados geram Lua completa e, com "Instalar ao adicionar" ativo, baixam pelo CDN e gravam ACF completo (sem 0 Bytes).
+Requer Steam instalado e internet para baixar depots.
